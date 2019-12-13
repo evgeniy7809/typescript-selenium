@@ -24,4 +24,4 @@ or pass 2 and 3 step
 ```sh
 npm run refresh
 ```
-это текст!!!
+это текст!
